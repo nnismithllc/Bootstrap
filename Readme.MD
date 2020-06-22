@@ -1,4 +1,5 @@
-## Bootstrap - About Me
+## Project Title
+Bootstrap - About Me
 
 Getting Started
 To execute this project on your computer, you’ll need to open a command shell (also known as command prompt, terminal, and command line) of your preference. Here are some suggestions: 
