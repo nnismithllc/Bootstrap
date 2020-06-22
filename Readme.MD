@@ -23,7 +23,6 @@ This is an webpage given detailed information about me. It depicts my creative s
 a webpage. Its user-friendly and easy nagivation platform. It is depicted in large scale picture attributes for older
 visually impaired viewers.
 
-
 ## Installation
 
 You will need a coding system (i.e. Visual Studio Code) to run, make changes, and visually adjust this file.
@@ -33,7 +32,6 @@ There are several links to consider when using this file:
 1. The Navigation Bar directs the traffic to other pages: About Me, Portfolio, Contact, and Home.
 
 2. The Home page has additional centered images with correlating links to the same pages listed above.
-
 
 ##  MIT License
 
@@ -56,7 +54,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 
 ## Authors
 Tia Smith.
